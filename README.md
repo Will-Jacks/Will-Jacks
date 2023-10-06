@@ -1,4 +1,4 @@
-### Oi! Bem vindo(a) ao meu perfil, eu sou o William Jackson!👋
+### Eu sou o William Jackson, desenvolvedor *React*! Bem vindo(a) ao meu perfil!👋
 - 🌱 Em busca da minha primeira oportunidade para ser desenvolvedor!
   <div style="display: inline_block"><br>
     <img align="center" alt="Will-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,8 +20,8 @@
   <a href="https://www.linkedin.com/in/william-jackson-souza/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 <br>
-- ⚡ Fun fact: Aprendi programação na faculdade sem nenhuma base e me apaixonei por esse mundo...
 <br>
 <br>
   
-![Snake animation](https://github.com/Will-Jacks/Will-Jacks/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/Will-Jacks/Will-Jacks/blob/output/github-contribution-grid-snake.svg)-->
+
