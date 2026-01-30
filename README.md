@@ -1,22 +1,7 @@
 # Olá, eu sou o William Jackson! 👋
 
 ### Full Stack Developer | IoT Enthusiast | Bacharelando em C&T na UFRN
-
-Sou um desenvolvedor movido por desafios técnicos que conectam o mundo digital ao físico. Atualmente, foco em construir aplicações escaláveis com **Java** e **React**, explorando arquiteturas de baixa latência com **MQTT**.
-
 ---
-
-## Experiência:
-
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Frontend** | React, JavaScript (ES6+), Vite, p5.js, HTML5/CSS3 |
-| **Backend** | Java (Spring Boot, MVC), Node.js, SQL (MySQL) |
-| **Connectivity/IoT** | Protocolo MQTT, WebSockets, Arduino, C++, ESP32 |
-| **Tools** | Git, GitHub, Excel Avançado, Maven, NPM |
-
----
-
 ## Projetos em Destaque
 
 ### [Finance App Ecosystem](https://github.com/Will-Jacks)
